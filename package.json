@@ -1,0 +1,23 @@
+{
+  "name": "game-of-life-refactoring-kata",
+  "version": "1.0.0",
+  "description": "This kata is working software (currently).  The goal is to refactor it, keeping the Liskov Substitution Principle in mind.",
+  "main": "game-spec.js",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "scripts": {
+    "test": "jasmine-node game-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarthStrom/game-of-life-refactoring-kata"
+  },
+  "keywords": [
+    "kata",
+    "game",
+    "life"
+  ],
+  "author": "Jason Duffy (@DarthStrom)",
+  "license": "MIT"
+}
