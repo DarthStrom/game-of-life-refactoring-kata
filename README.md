@@ -3,7 +3,7 @@ This kata currently includes working code and tests.  Your mission is to refacto
 
 This kata is based on the Game of Life kata at [codingdojo.org](http://codingdojo.org/cgi-bin/index.pl?KataGameOfLife).
 
-## More info on the Single Responsibility Principle:
+## More info on the Liskov Substitution Principle:
 - [Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
 - [LSP Clean Coders video 1](https://cleancoders.com/episode/clean-code-episode-11-p1/show)
 - [LSP Clean Coders video 2](https://cleancoders.com/episode/clean-code-episode-11-p2/show)
