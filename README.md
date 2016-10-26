@@ -13,7 +13,7 @@ You should have [Node.js](https://nodejs.org), [npm](https://www.npmjs.com), and
 
 Once you have jasmine-node, you can run the tests with `jasmine-node game-spec.js`.  They should pass the first time before you make any changes.  Any time you make a change, you'll want to run the tests again to make sure you didn't break anything.
 
-## Here are some questions to ask as you refactor
+## Here are some things to think about as you refactor
 - One smell that can indicate a Liskov Substitution Principle violation is the presence of `instanceof`
 - Once this has been recognized, try organizing the code so that LSP is not violated.
 - Remember that we still don't want unnecessarily duplicated code.
